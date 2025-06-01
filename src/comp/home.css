@@ -1,0 +1,50 @@
+/* Home.css */
+
+.home-container {
+  padding: 20px;
+  max-width: 960px;
+  margin: auto;
+}
+
+.poster-section {
+  text-align: center;
+}
+
+.poster-img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.description {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.description h2 {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.description p {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.6;
+  padding: 0 10px;
+}
+
+@media (max-width: 600px) {
+  .description h2 {
+    font-size: 1.5rem;
+  }
+
+  .description p {
+    font-size: 1rem;
+  }
+
+  .poster-img {
+    max-width: 100%;
+  }
+}
