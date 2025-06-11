@@ -3,12 +3,12 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cloud-kitchen.vercel.app/</loc>
+    <loc>https://cloud-kitchen-seven.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://cloud-kitchen.vercel.app/media</loc>
+    <loc>https://cloud-kitchen-seven.vercel.app/media</loc>
     <priority>0.8</priority>
   </url>
 
