@@ -30,6 +30,15 @@ function Media() {
       <img src="/images/pic23.jpg" alt="food18" />
       <img src="/images/pic24.jpg" alt="food18" />
        <img src="/images/pic25.jpeg" alt="food17" />
+       <img src="/images/pic26.jpg" alt="food18" />
+       <img src="/images/pic27.jpg" alt="food18" />
+       <img src="/images/pic28.jpg" alt="food18" />
+       <img src="/images/pic29.jpg" alt="food18" />
+       <img src="/images/pic30.jpg" alt="food18" />
+    <img src="/images/pic31.jpg" alt="food18" />
+    <img src="/images/pic32.jpg" alt="food18" />
+   <img src="/images/pic33.jpg" alt="food18" />
+     <img src="/images/pic34.jpg" alt="food18" />
     </div>
   );
 }
