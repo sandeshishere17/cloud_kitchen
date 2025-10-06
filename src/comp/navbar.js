@@ -10,6 +10,7 @@ function Navbar() {
       <ul className="navbar-links">
         <li><Link to="/">Home</Link></li>
         <li><Link to="/media">Media</Link></li>
+        <li><Link to="/diwali">diawli special</Link></li>
       </ul>
     </nav>
   );
