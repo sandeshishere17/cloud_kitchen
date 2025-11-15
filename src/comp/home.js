@@ -15,6 +15,7 @@ function Home() {
      <img src="/images/poster3.jpg" alt="Menu Poster" className="poster-img" />
      <img src="/images/menu.jpeg" alt="Menu Poster" className="poster-img" />
      <img src="/images/poster4.jpg" alt="Menu Poster" className="poster-img" />
+     <img src="/images/poster5.jpg" alt="Menu Poster" className="poster-img" />
      
 
       </section>
